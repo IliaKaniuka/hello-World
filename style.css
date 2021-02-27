@@ -1,0 +1,36 @@
+
+* {
+    font-family: 'Hachi Maru Pop', cursive;
+}
+body {
+  
+    height: 100vh;
+    text-align: center;
+    font-size: 24px;
+
+}
+input {
+    height: 75px;
+    width: 500px;
+    background-color: rgb(124, 0, 185);
+    font-size: 24px;
+
+}
+
+button {
+    height: 90px;
+    background-color: rgb(22, 167, 111);
+    font-size: 24px;
+   width: 90px;
+
+}
+#type{
+    width: 90px;
+    height: 90pxs;
+}
+.container{
+    width: 550px;
+    height: 550px;
+background-color: aqua;
+text-align: center;
+}
